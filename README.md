@@ -2,7 +2,7 @@
 
 DEVELOPMENT NOTES
 
-Update: The game can be operated without the hardware as similar functionalities have been written using mouse. Simply use a mouse-click to mimic the creation of a successful shape.
+**Update: The game can be operated without the hardware as similar functionalities have been written using mouse. Simply use a mouse-click to mimic the creation of a successful shape.**
 
 We labeled each pressure-sensitive touchpad with an index (1-8 for 8 touchpads) - #1 in the 12 o’clock position proceeding clockwise to #8. We also labeled the origin/central point of reference as index-0 in a 9-element binary array to store which vertices are being activated and also to decide how shape are made. We used the Firmata library to pass the digital inputs to Processing.
 
